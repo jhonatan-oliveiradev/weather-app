@@ -12,4 +12,4 @@
 
 ## https://api.weatherapi.com/
 
-Deploy:
+Deploy: https://weather-app-phi-cyan.vercel.app/
